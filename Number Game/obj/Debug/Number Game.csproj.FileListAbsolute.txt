@@ -1,0 +1,13 @@
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\bin\Debug\Number Game.exe.config
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\bin\Debug\Number Game.exe
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\bin\Debug\Number Game.pdb
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number Game.csproj.AssemblyReference.cache
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number_Game.Form1.resources
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number_Game.Properties.Resources.resources
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number Game.csproj.GenerateResource.cache
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number Game.csproj.CoreCompileInputs.cache
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number Game.exe
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\obj\Debug\Number Game.pdb
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\bin\Debug\Database1.mdf
+C:\Users\Sadasiva\Documents\Visual Studio applications\Number Game\Number Game\bin\Debug\Database1_log.ldf
